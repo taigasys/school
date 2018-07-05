@@ -19,10 +19,10 @@
 | 8. | MySQL |                                    | `база` |
 | 9. | Yii2 |                                     | `уверенный middle` |
 | 10. | Laravel |                                  | `уверенный middle` |
-| 11.| PhpStorm IDE |                             | `уверенный middle` |
-| 12.| NGINX |                                    | `уверенный middle` |
+| 11.| NGINX |                                    | `уверенный middle` |
+| 12.| PhpStorm IDE |                             | `уверенный middle` |
 | 13.| Тестирование |                             | `уверенный middle` |
-| 14.| Вот теперь можно и  JavaScript |          | `база` |
+| 14.| Вот теперь можно и JavaScript |          | `база` |
 | 15.| Docker |                                   | `уверенный middle` |
 | 16.| CI/CD |                                    | `pro level` |
 | 17.| Golang |                                   | `pro level` |
