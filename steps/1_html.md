@@ -6,4 +6,6 @@ HTML (от англ. HyperText Markup Language — «язык гипертекс
 
 Самые популярные учебники по HTML:
 * Русскоязычный [htmlbook.ru](http://htmlbook.ru/samhtml) 
-* Англоязычный [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) (есть  [версия на русском языке](https://developer.mozilla.org/ru/docs/Learn/HTML/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_HTML), но переведена она не полностью).
+* Англоязычный [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) (есть  [версия на русском языке](https://developer.mozilla.org/ru/docs/Learn/HTML/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_HTML), но переведена она не полностью).  
+
+[Домашнее задание №1](/steps/1_html_hw.md)
