@@ -14,19 +14,20 @@
 | 3. | CSS3                                      | `база` |
 | 4. | PHP                                       | `база` |
 | 5. | Объектно-ориентированное программирование | `база` |
-| 6. | Паттерны проектирования                   | `уверенныйц middle` |
-| 7. | MySQL                                     | `база` |
-| 8. | Yii2                                      | `уверенныйц middle` |
-| 9. | Laravel                                   | `уверенныйц middle` |
-| 10.| PhpStorm IDE                              | `уверенныйц middle` |
-| 11.| NGINX                                     | `уверенныйц middle` |
-| 12.| Тестирование                              | `уверенныйц middle` |
-| 13.| Вот теперь можно и  JavaScript.           | `база` |
-| 14.| Docker                                    | `уверенныйц middle` |
-| 15.| CI/CD                                     | `pro level` |
-| 16.| Golang                                    | `pro level` |
-| 17.| Микросервисы                              | `pro level` |
-| 18. | [High Performance Browser Networking](https://hpbn.co/) | `pro level` |
+| 6. | Алгоритмы                                 | `база` |
+| 7. | Паттерны проектирования                   | `уверенныйц middle` |
+| 8. | MySQL                                     | `база` |
+| 9. | Yii2                                      | `уверенныйц middle` |
+| 10. | Laravel                                   | `уверенныйц middle` |
+| 11.| PhpStorm IDE                              | `уверенныйц middle` |
+| 12.| NGINX                                     | `уверенныйц middle` |
+| 13.| Тестирование                              | `уверенныйц middle` |
+| 14.| Вот теперь можно и  JavaScript.           | `база` |
+| 15.| Docker                                    | `уверенныйц middle` |
+| 16.| CI/CD                                     | `pro level` |
+| 17.| Golang                                    | `pro level` |
+| 18.| Микросервисы                              | `pro level` |
+| 19. | [High Performance Browser Networking](https://hpbn.co/) | `pro level` |
 
 
 
