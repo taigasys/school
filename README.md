@@ -5,11 +5,12 @@
 [Pull Requests](https://github.com/taigasys/school/pulls) и [Issues](https://github.com/taigasys/school/issues) приветствуются! 
 
 ## Путь Back-End джедая
-1. HTML `база`
-2. Git `база`
-3. CSS3 `база`
-4. PHP `база`
-5. Объектно-ориентированное программирование `база`
+| 1. | HTML                                      | `база` |
+| 2. | Git                                       | `база` |
+| 3. | CSS3                                      | `база` |
+| 4. | PHP                                       | `база` |
+| 5. | Объектно-ориентированное программирование | `база` |
+
 6. Паттерны проектирования `уверенныйц middle`
 7. MySQL `база`
 8. Yii2 `уверенныйц middle`
