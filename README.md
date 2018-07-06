@@ -17,20 +17,23 @@
 | 6. | Алгоритмы |                                | `база` |
 | 7. | Паттерны проектирования |                  | `уверенный middle` |
 | 8. | MySQL |                                    | `база` |
-| :bug: | [**Подать заявку на вакансию Junior-разработчик**](mailto:mail@taiga.systems?subject=Junior) | | :zap: |
+| :bug: | [**Подать заявку на вакансию Junior-разработчик**](mailto:mail@taiga.systems?subject=Junior)  | | :zap: |
 | 9. | Yii2 |                                     | `уверенный middle` |
 | 10. | Laravel |                                  | `уверенный middle` |
 | 11.| NGINX |                                    | `уверенный middle` |
 | 12.| PhpStorm IDE |                             | `уверенный middle` |
-| :robot:| [**Подать заявку на вакансию Middle-разработчик**](mailto:mail@taiga.systems?subject=Middle) |        | :zap: |
-| 13.| Тестирование |                             | `уверенный middle` |
-| 14.| Вот теперь можно и JavaScript |          | `база` |
-| 15.| Docker |                                   | `уверенный middle` |
-| 16.| CI/CD |                                    | `pro level` |
-| 17.| Golang |                                   | `pro level` |
-| 18.| Микросервисы  |                            | `pro level` |
-| 19. | [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
-| :rocket: | [**Подать заявку на вакансию Senior-разработчик**](mailto:mail@taiga.systems?subject=Senior) |        | :zap: |
+| 13.| Вот теперь можно и JavaScript |          | `база` |
+| 14.| Git Flow |                             | `уверенный middle` |
+| 15.| Agile |                             | `уверенный middle` |
+| :robot:| [**Подать заявку на вакансию Middle-разработчик**](mailto:mail@taiga.systems?subject=Middle) |  | :zap: |
+| 16.| Тестирование |                             | `уверенный middle` |
+| 17.| Docker |                                   | `уверенный middle` |
+| 18.| Ansible |                                    | `pro level` |
+| 19.| CI/CD |                                    | `pro level` |
+| 20.| Golang |                                   | `pro level` |
+| 21.| Микросервисы  |                            | `pro level` |
+| 22. | [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
+| :rocket: | [**Подать заявку на вакансию Senior-разработчик**](mailto:mail@taiga.systems?subject=Senior) |  | :zap: |
 
 ### Домашнее задание
 Чтобы домашка была интереснее, на протяжении всего курса мы будем работать над реальной задачей: **разработаем программу учета клиентов для Станции Технического Обслуживания.**  
