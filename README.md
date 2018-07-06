@@ -27,14 +27,14 @@
 | 15.| Git Flow |                             | `уверенный middle` |
 | 16.| Система управления задачами Youtrack |       | `уверенный middle` |
 | 17.| Agile |                             | `уверенный middle` |
-| :robot:| [**Подать заявку на вакансию Middle-разработчик**](mailto:mail@taiga.systems?subject=Middle) |  | :zap: |
+| :robot:  | [**Подать заявку на вакансию Middle-разработчик**](mailto:mail@taiga.systems?subject=Middle) |  | :zap: |
 | 18.| Тестирование |                             | `уверенный middle` |
 | 19.| Docker |                                   | `уверенный middle` |
 | 20.| Ansible |                                    | `pro level` |
 | 21.| CI/CD |                                    | `pro level` |
 | 22.| Golang |                                   | `pro level` |
 | 23.| Микросервисы  |                            | `pro level` |
-| 24. | [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
+| 24.| [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
 | :rocket: | [**Подать заявку на вакансию Senior-разработчик**](mailto:mail@taiga.systems?subject=Senior) |  | :zap: |
 
 ### Домашнее задание
@@ -49,6 +49,7 @@
 ## Путь Data Science джедая
 | Шаг| Курс             |Уровень |
 |--- |---               |---     |
+| 0. | Математика       | `база`|
 | 1. | Python           | `база`|
 | 2. | Git              | `база`|
 | 3. | T-SQL            | `база`|
