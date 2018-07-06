@@ -13,26 +13,28 @@
 | 2. | Git  |                                     | `база` |
 | 3. | CSS3   |                                   | `база` |
 | 4. | PHP   |                                    | `база` |
-| 5. | Объектно-ориентированное программирование | | `база` |
-| 6. | Алгоритмы |                                | `база` |
-| 7. | Паттерны проектирования |                  | `уверенный middle` |
-| 8. | MySQL |                                    | `база` |
+| 5. | PSR   |                                    | `база` |
+| 6. | Объектно-ориентированное программирование | | `база` |
+| 7. | Алгоритмы |                                | `база` |
+| 8. | Паттерны проектирования |                  | `уверенный middle` |
+| 9. | MySQL |                                    | `база` |
 | :bug: | [**Подать заявку на вакансию Junior-разработчик**](mailto:mail@taiga.systems?subject=Junior)  | | :zap: |
-| 9. | Yii2 |                                     | `уверенный middle` |
-| 10. | Laravel |                                  | `уверенный middle` |
-| 11.| NGINX |                                    | `уверенный middle` |
-| 12.| PhpStorm IDE |                             | `уверенный middle` |
-| 13.| Вот теперь можно и JavaScript |          | `база` |
-| 14.| Git Flow |                             | `уверенный middle` |
-| 15.| Agile |                             | `уверенный middle` |
+| 10. | Yii2 |                                     | `уверенный middle` |
+| 11. | Laravel |                                  | `уверенный middle` |
+| 12.| NGINX |                                    | `уверенный middle` |
+| 13.| PhpStorm IDE |                             | `уверенный middle` |
+| 14.| Вот теперь можно и JavaScript |          | `база` |
+| 15.| Git Flow |                             | `уверенный middle` |
+| 16.| Система управления задачами Youtrack |       | `уверенный middle` |
+| 17.| Agile |                             | `уверенный middle` |
 | :robot:| [**Подать заявку на вакансию Middle-разработчик**](mailto:mail@taiga.systems?subject=Middle) |  | :zap: |
-| 16.| Тестирование |                             | `уверенный middle` |
-| 17.| Docker |                                   | `уверенный middle` |
-| 18.| Ansible |                                    | `pro level` |
-| 19.| CI/CD |                                    | `pro level` |
-| 20.| Golang |                                   | `pro level` |
-| 21.| Микросервисы  |                            | `pro level` |
-| 22. | [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
+| 18.| Тестирование |                             | `уверенный middle` |
+| 19.| Docker |                                   | `уверенный middle` |
+| 20.| Ansible |                                    | `pro level` |
+| 21.| CI/CD |                                    | `pro level` |
+| 22.| Golang |                                   | `pro level` |
+| 23.| Микросервисы  |                            | `pro level` |
+| 24. | [High Performance Browser Networking](https://hpbn.co/) | | `pro level` |
 | :rocket: | [**Подать заявку на вакансию Senior-разработчик**](mailto:mail@taiga.systems?subject=Senior) |  | :zap: |
 
 ### Домашнее задание
