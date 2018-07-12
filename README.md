@@ -47,7 +47,7 @@
     
       
 
-## Путь Data Science джедая
+## Путь [Data Science](https://vk.com/@tproger-neural-networks-in-simple-words) джедая
 | Шаг| Курс             |Уровень |
 |--- |---               |---     |
 | 0. | Математика       | `база`|
