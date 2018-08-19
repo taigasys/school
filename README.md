@@ -57,6 +57,7 @@
 | 4. | Machine Learning | `база`|
   
   
-  
+ Если вы дочитали до конца, предлагаю ознакомиться с переводом статьи Питера Норвига ["Научитесь программировать за десять лет"](http://www.williamspublishing.com/21-days.html) 
+ 
   
  Этот учебный проект распространяется по лицензии [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ru) и создан командой [Taiga.Systems](http://taiga.systems/)
